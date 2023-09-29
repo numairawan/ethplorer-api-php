@@ -10,13 +10,13 @@ class EthplorerApi
 
     private $apiAddress = "https://api.ethplorer.io/";
     private $apiKeys = [];
-    private $randKeys = false;
+    private $randKeys;
     private $apiKeyIndex = 0;
 
     /**
      * Constructor to initialize the API with an array of API keys
      */
-    public function __construct(array $apiKeys, bool $randKeys)
+    public function __construct(array $apiKeys, bool $randKeys = false)
     {
         $this->apiKeys = $apiKeys;
         $this->randKeys = $randKeys;
