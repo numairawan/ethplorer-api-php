@@ -1,6 +1,7 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/NumairAwan/ethplorer-api-php/main/art/ethplorer-api-php.png" width="600" alt="ethplorer-api-php">
     <p align="center">
+        <a href="https://github.com/NumairAwan/ethplorer-api-php"><img alt="Total Hits" src="https://hits.dwyl.com/NumairAwan/ethplorer-api-php.svg?style=flat-square"></a>
         <a href="https://packagist.org/packages/numairawan/ethplorer-api-php"><img alt="Total Downloads" src="https://img.shields.io/packagist/dt/numairawan/ethplorer-api-php"></a>
         <a href="https://packagist.org/packages/numairawan/ethplorer-api-php"><img alt="Latest Version" src="https://img.shields.io/packagist/v/numairawan/ethplorer-api-php"></a>
         <a href="https://packagist.org/packages/numairawan/ethplorer-api-php"><img alt="License" src="https://img.shields.io/github/license/numairawan/ethplorer-api-php"></a>
