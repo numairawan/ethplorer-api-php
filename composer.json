@@ -1,0 +1,22 @@
+{
+    "name": "numairawan/ethplorer-api-php",
+    "description": "PHP library for Ethplorer.io API. Supports multiple keys for rate limits, no dependencies, and offers fast performance.",
+    "type": "library",
+    "keywords": ["ethereum", "ethereum-api", "ethereum-chain-api", "ethplorer", "ethplorer-api", "php-ethereum-api", "ethplorer-php-api"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Numair Awan",
+            "email": "numairawan1@gmail.com",
+            "homepage": "https://github.com/NumairAwan"
+        }
+    ],
+    "require": {},
+    "autoload": {
+    "psr-4": {
+            "NumairAwan\\EthplorerApi\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
